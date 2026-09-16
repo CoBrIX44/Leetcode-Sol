@@ -55,3 +55,15 @@ in Data Structures & Algorithms.
 - LeetCode
 - LeetHub v2
 - GitHub
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

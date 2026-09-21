@@ -62,6 +62,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0001-two-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,12 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
+## Math
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->

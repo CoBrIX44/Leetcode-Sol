@@ -79,6 +79,7 @@ in Data Structures & Algorithms.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0002-add-two-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
@@ -89,4 +90,12 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

@@ -77,6 +77,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -92,6 +93,7 @@ in Data Structures & Algorithms.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
 |  |
@@ -123,4 +125,12 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

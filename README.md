@@ -62,6 +62,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
@@ -107,6 +108,7 @@ in Data Structures & Algorithms.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -117,4 +119,8 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

@@ -83,6 +83,7 @@ in Data Structures & Algorithms.
 | [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0010-regular-expression-matching) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
@@ -103,6 +104,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0010-regular-expression-matching) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
 |  |
@@ -116,6 +118,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0010-regular-expression-matching) |
 ## Binary Search
 |  |
 | ------- |

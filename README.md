@@ -95,6 +95,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0002-add-two-numbers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0009-palindrome-number) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

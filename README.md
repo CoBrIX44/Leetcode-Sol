@@ -82,6 +82,7 @@ in Data Structures & Algorithms.
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0008-string-to-integer-atoi) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |

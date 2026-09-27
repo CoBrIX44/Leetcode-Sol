@@ -74,6 +74,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0001-two-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0012-integer-to-roman) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -85,6 +86,7 @@ in Data Structures & Algorithms.
 | [0006-zigzag-conversion](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0012-integer-to-roman) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -99,6 +101,7 @@ in Data Structures & Algorithms.
 | [0002-add-two-numbers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0012-integer-to-roman) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

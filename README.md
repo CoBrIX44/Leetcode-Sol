@@ -85,6 +85,7 @@ in Data Structures & Algorithms.
 | [0008-string-to-integer-atoi](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0010-regular-expression-matching) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -153,6 +154,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -161,4 +163,8 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

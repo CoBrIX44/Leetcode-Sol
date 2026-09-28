@@ -65,6 +65,7 @@ in Data Structures & Algorithms.
 | [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0015-3sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
@@ -153,6 +154,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0015-3sum) |
 ## Manacher
 |  |
 | ------- |
@@ -174,6 +176,7 @@ in Data Structures & Algorithms.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0015-3sum) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

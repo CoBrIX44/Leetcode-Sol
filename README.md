@@ -67,6 +67,7 @@ in Data Structures & Algorithms.
 | [0014-longest-common-prefix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0018-4sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
@@ -159,6 +160,7 @@ in Data Structures & Algorithms.
 | [0011-container-with-most-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0018-4sum) |
 ## Manacher
 |  |
 | ------- |
@@ -183,6 +185,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0015-3sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0018-4sum) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

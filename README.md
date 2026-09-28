@@ -64,6 +64,7 @@ in Data Structures & Algorithms.
 | [0001-two-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0014-longest-common-prefix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
@@ -89,6 +90,7 @@ in Data Structures & Algorithms.
 | [0010-regular-expression-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0014-longest-common-prefix) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -182,4 +184,8 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

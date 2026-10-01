@@ -69,6 +69,7 @@ in Data Structures & Algorithms.
 | [0016-3sum-closest](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0027-remove-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -179,6 +180,7 @@ in Data Structures & Algorithms.
 | [0018-4sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0027-remove-element) |
 ## Manacher
 |  |
 | ------- |

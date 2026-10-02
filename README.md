@@ -120,6 +120,7 @@ in Data Structures & Algorithms.
 | [0009-palindrome-number](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0029-divide-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -261,4 +262,8 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

@@ -74,6 +74,7 @@ in Data Structures & Algorithms.
 | [0033-search-in-rotated-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0036-valid-sudoku) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -89,6 +90,7 @@ in Data Structures & Algorithms.
 | [0013-roman-to-integer](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0036-valid-sudoku) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -253,6 +255,7 @@ in Data Structures & Algorithms.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0036-valid-sudoku) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |

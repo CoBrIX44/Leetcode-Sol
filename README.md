@@ -72,6 +72,7 @@ in Data Structures & Algorithms.
 | [0027-remove-element](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -166,6 +167,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |

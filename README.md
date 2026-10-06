@@ -80,6 +80,7 @@ in Data Structures & Algorithms.
 | [0040-combination-sum-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0045-jump-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -157,6 +158,7 @@ in Data Structures & Algorithms.
 | [0032-longest-valid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
@@ -274,6 +276,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0011-container-with-most-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie

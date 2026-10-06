@@ -119,6 +119,7 @@ in Data Structures & Algorithms.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -131,6 +132,7 @@ in Data Structures & Algorithms.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -141,6 +143,7 @@ in Data Structures & Algorithms.
 | [0012-integer-to-roman](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

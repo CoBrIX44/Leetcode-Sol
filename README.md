@@ -121,6 +121,7 @@ in Data Structures & Algorithms.
 | [0038-count-and-say](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0038-count-and-say) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -233,6 +234,7 @@ in Data Structures & Algorithms.
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -256,6 +258,7 @@ in Data Structures & Algorithms.
 | [0032-longest-valid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -265,6 +268,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0011-container-with-most-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |

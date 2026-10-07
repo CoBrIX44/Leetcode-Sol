@@ -82,6 +82,7 @@ in Data Structures & Algorithms.
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -236,6 +237,7 @@ in Data Structures & Algorithms.
 | [0039-combination-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -262,6 +264,7 @@ in Data Structures & Algorithms.
 | [0015-3sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

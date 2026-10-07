@@ -122,6 +122,7 @@ in Data Structures & Algorithms.
 | [0038-count-and-say](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0044-wildcard-matching) |
+| [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -233,6 +234,7 @@ in Data Structures & Algorithms.
 | [0037-sudoku-solver](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -250,6 +252,7 @@ in Data Structures & Algorithms.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |

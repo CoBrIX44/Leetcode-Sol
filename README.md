@@ -83,6 +83,7 @@ in Data Structures & Algorithms.
 | [0045-jump-game-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -150,6 +151,7 @@ in Data Structures & Algorithms.
 | [0013-roman-to-integer](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -299,6 +301,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0036-valid-sudoku](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |

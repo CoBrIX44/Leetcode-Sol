@@ -155,6 +155,7 @@ in Data Structures & Algorithms.
 | [0029-divide-two-integers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0050-powx-n) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -193,6 +194,7 @@ in Data Structures & Algorithms.
 | [0024-swap-nodes-in-pairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |

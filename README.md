@@ -85,6 +85,7 @@ in Data Structures & Algorithms.
 | [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0053-maximum-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -170,6 +171,7 @@ in Data Structures & Algorithms.
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
@@ -219,6 +221,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |

@@ -89,6 +89,7 @@ in Data Structures & Algorithms.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -206,6 +207,7 @@ in Data Structures & Algorithms.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -281,6 +283,7 @@ in Data Structures & Algorithms.
 | [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0049-group-anagrams) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -305,6 +308,7 @@ in Data Structures & Algorithms.
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -320,6 +324,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |

@@ -88,6 +88,7 @@ in Data Structures & Algorithms.
 | [0053-maximum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0056-merge-intervals) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -287,6 +288,7 @@ in Data Structures & Algorithms.
 | [0018-4sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0056-merge-intervals) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
@@ -376,4 +378,8 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

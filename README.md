@@ -90,6 +90,7 @@ in Data Structures & Algorithms.
 | [0055-jump-game](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -156,6 +157,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -336,6 +338,7 @@ in Data Structures & Algorithms.
 | [0037-sudoku-solver](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |

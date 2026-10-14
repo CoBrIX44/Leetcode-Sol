@@ -203,6 +203,7 @@ in Data Structures & Algorithms.
 | [0023-merge-k-sorted-lists](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -252,6 +253,7 @@ in Data Structures & Algorithms.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0061-rotate-list) |
 ## Manacher
 |  |
 | ------- |

@@ -173,6 +173,7 @@ in Data Structures & Algorithms.
 | [0043-multiply-strings](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0062-unique-paths) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -189,6 +190,7 @@ in Data Structures & Algorithms.
 | [0045-jump-game-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
@@ -405,4 +407,8 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

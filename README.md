@@ -91,6 +91,7 @@ in Data Structures & Algorithms.
 | [0056-merge-intervals](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -191,6 +192,7 @@ in Data Structures & Algorithms.
 | [0053-maximum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
@@ -348,6 +350,7 @@ in Data Structures & Algorithms.
 | [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |

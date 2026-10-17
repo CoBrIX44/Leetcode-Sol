@@ -104,6 +104,7 @@ in Data Structures & Algorithms.
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ in Data Structures & Algorithms.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -313,6 +315,7 @@ in Data Structures & Algorithms.
 | [0056-merge-intervals](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0056-merge-intervals) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |

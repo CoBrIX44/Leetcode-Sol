@@ -93,6 +93,7 @@ in Data Structures & Algorithms.
 | [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0066-plus-one) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -181,6 +182,7 @@ in Data Structures & Algorithms.
 | [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0066-plus-one) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |

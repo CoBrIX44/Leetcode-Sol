@@ -93,6 +93,7 @@ in Data Structures & Algorithms.
 | [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -180,6 +181,7 @@ in Data Structures & Algorithms.
 | [0048-rotate-image](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -200,6 +202,7 @@ in Data Structures & Algorithms.
 | [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
@@ -253,6 +256,7 @@ in Data Structures & Algorithms.
 | [0004-median-of-two-sorted-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0053-maximum-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -424,4 +428,29 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->

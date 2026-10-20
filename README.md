@@ -153,6 +153,7 @@ in Data Structures & Algorithms.
 | [0049-group-anagrams](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0071-simplify-path) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
@@ -307,6 +308,7 @@ in Data Structures & Algorithms.
 | [0020-valid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |

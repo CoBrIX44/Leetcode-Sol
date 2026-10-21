@@ -154,6 +154,7 @@ in Data Structures & Algorithms.
 | [0058-length-of-last-word](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0072-edit-distance) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
@@ -214,6 +215,7 @@ in Data Structures & Algorithms.
 | [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

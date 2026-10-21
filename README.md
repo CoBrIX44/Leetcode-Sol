@@ -94,6 +94,7 @@ in Data Structures & Algorithms.
 | [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0073-set-matrix-zeroes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -123,6 +124,7 @@ in Data Structures & Algorithms.
 | [0037-sudoku-solver](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0073-set-matrix-zeroes) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -384,6 +386,7 @@ in Data Structures & Algorithms.
 | [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0073-set-matrix-zeroes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |

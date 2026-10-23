@@ -129,6 +129,7 @@ in Data Structures & Algorithms.
 | [0041-first-missing-positive](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -161,6 +162,7 @@ in Data Structures & Algorithms.
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0076-minimum-window-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
@@ -269,6 +271,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |

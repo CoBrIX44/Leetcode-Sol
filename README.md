@@ -316,6 +316,7 @@ in Data Structures & Algorithms.
 | [0040-combination-sum-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Stack

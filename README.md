@@ -174,6 +174,7 @@ in Data Structures & Algorithms.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
@@ -202,6 +203,7 @@ in Data Structures & Algorithms.
 | [0069-sqrtx](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

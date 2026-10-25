@@ -97,6 +97,7 @@ in Data Structures & Algorithms.
 | [0073-set-matrix-zeroes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -318,6 +319,7 @@ in Data Structures & Algorithms.
 | [0046-permutations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -439,6 +441,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0029-divide-two-integers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Algorithm X

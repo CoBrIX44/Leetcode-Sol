@@ -98,6 +98,7 @@ in Data Structures & Algorithms.
 | [0074-search-a-2d-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -167,6 +168,7 @@ in Data Structures & Algorithms.
 | [0071-simplify-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
@@ -323,6 +325,7 @@ in Data Structures & Algorithms.
 | [0047-permutations-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -409,6 +412,7 @@ in Data Structures & Algorithms.
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -521,6 +525,7 @@ in Data Structures & Algorithms.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->

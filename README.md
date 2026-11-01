@@ -99,6 +99,7 @@ in Data Structures & Algorithms.
 | [0075-sort-colors](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -212,6 +213,7 @@ in Data Structures & Algorithms.
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |

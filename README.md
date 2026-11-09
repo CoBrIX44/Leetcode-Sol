@@ -100,6 +100,7 @@ in Data Structures & Algorithms.
 | [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
@@ -296,6 +297,7 @@ in Data Structures & Algorithms.
 | [0035-search-insert-position](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2089-find-target-indices-after-sorting-array) |

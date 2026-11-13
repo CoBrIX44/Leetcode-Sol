@@ -120,6 +120,7 @@ in Data Structures & Algorithms.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
@@ -270,6 +271,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
@@ -315,6 +317,7 @@ in Data Structures & Algorithms.
 | [0076-minimum-window-substring](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -382,6 +385,7 @@ in Data Structures & Algorithms.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -517,6 +521,7 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -599,4 +604,12 @@ in Data Structures & Algorithms.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

@@ -106,6 +106,7 @@ in Data Structures & Algorithms.
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -232,6 +233,7 @@ in Data Structures & Algorithms.
 | [0070-climbing-stairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -260,6 +262,7 @@ in Data Structures & Algorithms.
 | [0070-climbing-stairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -324,6 +327,7 @@ in Data Structures & Algorithms.
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer

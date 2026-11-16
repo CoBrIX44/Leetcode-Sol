@@ -200,6 +200,7 @@ in Data Structures & Algorithms.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -213,6 +214,7 @@ in Data Structures & Algorithms.
 | [0059-spiral-matrix-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |

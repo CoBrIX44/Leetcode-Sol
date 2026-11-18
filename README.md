@@ -185,6 +185,7 @@ in Data Structures & Algorithms.
 | [0044-wildcard-matching](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0072-edit-distance) |

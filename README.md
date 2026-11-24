@@ -315,6 +315,7 @@ in Data Structures & Algorithms.
 | [0061-rotate-list](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
@@ -385,6 +386,7 @@ in Data Structures & Algorithms.
 | [0075-sort-colors](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0086-partition-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Manacher

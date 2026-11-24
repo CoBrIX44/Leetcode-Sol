@@ -104,6 +104,7 @@ in Data Structures & Algorithms.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0085-maximal-rectangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
@@ -282,6 +283,7 @@ in Data Structures & Algorithms.
 | [0064-minimum-path-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -414,6 +416,7 @@ in Data Structures & Algorithms.
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -501,6 +504,7 @@ in Data Structures & Algorithms.
 | [0073-set-matrix-zeroes](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -565,6 +569,7 @@ in Data Structures & Algorithms.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0085-maximal-rectangle) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |

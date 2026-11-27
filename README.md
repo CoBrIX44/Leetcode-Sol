@@ -256,6 +256,7 @@ in Data Structures & Algorithms.
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0089-gray-code) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1352-product-of-the-last-k-numbers) |
@@ -417,6 +418,7 @@ in Data Structures & Algorithms.
 | [0077-combinations](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -563,6 +565,7 @@ in Data Structures & Algorithms.
 | [0029-divide-two-integers](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/0089-gray-code) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/CoBrIX44/Leetcode-Sol/tree/master/3841-palindromic-path-queries-in-a-tree) |
